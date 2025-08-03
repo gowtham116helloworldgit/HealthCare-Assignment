@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./DoctorProfile.css";
 
 // Inline Doctor type

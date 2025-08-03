@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./DoctorCard.css";
 
 // Inline Doctor type
