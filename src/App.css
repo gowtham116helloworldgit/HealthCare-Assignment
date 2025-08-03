@@ -1,0 +1,19 @@
+/* App.css */
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 89.9vh;
+  padding: 2rem;
+  font-family: sans-serif;
+  background-color: #f4f4f4;
+  width: 1300px;
+}
+
+.doctor-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Aisha Rao",
+    "specialization": "Cardiologist",
+    "image": "/doctor1.jpg",
+    "available": true,
+    "bio": "Expert in heart care with 15 years of experience."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rohan Mehta",
+    "specialization": "Dermatologist",
+    "image": "/doctor2.jpg",
+    "available": false,
+    "bio": "Skincare specialist helping 1000+ patients."
+  }
+]
